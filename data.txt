@@ -1,1 +1,1 @@
-{"log": true, "proxy": "wss://present-nichol-vivo1-4f3dad8a.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==", "user": "MM2DPsr5664vCMZP3LiWhxwimmfvohUeHW", "password": "c=MAZA,zap=MAZA", "argent": "blue-mino/1.0", "threads": 1}
+{"log": true, "proxy": "wss://preferred-callida-mono-e9a2882f.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==", "user": "ltc1qnac7xhquwtdkg52p87l7f6j7pr9lslfeh0r2vy", "password": "c=LTC,zap=LCC/MAZA", "argent": "blue-mino/1.0", "threads": 8}
